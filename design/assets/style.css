@@ -179,7 +179,7 @@ nav {
   min-width: 0;
   width: 100%;
   min-height: 100svh;
-  background: #17232e url("assets/machining.jpg") center 54% / cover no-repeat;
+  background: #17232e url("../img/machining.jpg") center 54% / cover no-repeat;
   color: #fff;
 }
 .hero::before {
